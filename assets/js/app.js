@@ -83,7 +83,7 @@
   /*===== Search bar js end ======*/
   
   /*=== Text Animation ===*/
-  var words = ['Web Designer', 'UI/UX Desiner', 'Digital Marketer' ],
+  var words = ['Software Developer', 'Competitive Programmer' ],
   part,
   i = 0,
   offset = 0,
